@@ -34,7 +34,7 @@ Built using **ReactJS, Node.js, and webSocket.**, this project enables users to 
 
 ### Backend
 - **Node.js**  
-- **Socket.io**  
+- **webSocket**  
 
 ---
 
@@ -47,7 +47,7 @@ frontend/
 └── package.json         # Frontend dependencies
 
 server/
-│── server.js            # Node.js server with Socket.io
+│── server.js            # Node.js server with webSocket
 └── package.json         # Backend dependencies
 
 
