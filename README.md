@@ -53,11 +53,9 @@ server/
 
 ## output
 
-
-<img width="1014" height="640" alt="Image" src="https://github.com/user-attachments/assets/394f49e0-f981-4325-b734-147b256ec443" />
-<img width="1000" height="637" alt="Image" src="https://github.com/user-attachments/assets/edd0bf4e-a0c1-4477-9451-9f31f67e5e12" />
-<img width="1013" height="634" alt="Image" src="https://github.com/user-attachments/assets/1c6ad9d6-64ad-480e-a823-4c10e8995044" />
-
+![Screenshot 1](https://github.com/user-attachments/assets/394f49e0-f981-4325-b734-147b256ec443)
+![Screenshot 2](https://github.com/user-attachments/assets/edd0bf4e-a0c1-4477-9451-9f31f67e5e12)
+![Screenshot 3](https://github.com/user-attachments/assets/1c6ad9d6-64ad-480e-a823-4c10e8995044)
 ## 🚀 How to Run the Project
 1️⃣ Start the Server
 cd server
