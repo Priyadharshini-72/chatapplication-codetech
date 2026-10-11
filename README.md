@@ -3,7 +3,7 @@
 ## 📌 Project Information
 - **Company:** Codetech IT Solutions  
 - **Intern Name:** Priyadharshini K  
-- **Intern ID:** CT  
+- **Intern ID:** CTIS0335  
 - **Domain:** Frontend Development  
 - **Duration:** 4 Weeks  
 - **Mentor:** Neela Santhosh  
