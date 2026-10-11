@@ -2,7 +2,7 @@
 
 ## 📌 Project Information
 - **Company:** Codetech IT Solutions  
-- **Intern Name:** Suji R  
+- **Intern Name:** Priyadharshini K  
 - **Intern ID:** CTIS0337  
 - **Domain:** Frontend Development  
 - **Duration:** 4 Weeks  
@@ -13,7 +13,7 @@
 ## 📖 Project Overview
 The **Real-Time Chat Application** is a responsive web application developed as part of a Frontend Development internship task.
 
-Built using **ReactJS, Node.js, and Socket.io**, this project enables users to send and receive messages instantly, simulating a live chat environment. The application focuses on real-time communication, clean UI design, and smooth user interaction.
+Built using **ReactJS, Node.js, and webSocket.**, this project enables users to send and receive messages instantly, simulating a live chat environment. The application focuses on real-time communication, clean UI design, and smooth user interaction.
 
 ---
 
